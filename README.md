@@ -2,7 +2,7 @@
 
 ![Desktop Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)
 
-![Mobile Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/mobile-designs-slide-1.jpg)
+![Mobile Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/mobile-design-slide-1.jpg)
 
 
 ## The challenge
